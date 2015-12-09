@@ -1,0 +1,5 @@
+django
+requests
+pytest
+arrow
+psycopg2

@@ -1,5 +1,5 @@
 language: python
 python:
-  - "3.4444"
+  - "3.4.3"
 install: "pip intstall -r requirements.txt"
 script: py.test
